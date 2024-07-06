@@ -11,7 +11,7 @@ This repository contains the code for an advanced digital clock with a fire anim
 
 ## **Demo Pages Link**
 
-(Clock Page) https://mohith174.github.io/DigitalClock/
+[Clock Page] (https://mohith174.github.io/DigitalClock/)
 
 
 ## **Installation**
