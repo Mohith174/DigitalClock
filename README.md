@@ -11,11 +11,12 @@ This repository contains the code for an advanced digital clock with a fire anim
 
 ## **Demo Pages Link**
 
+(Clock Page) https://mohith174.github.io/DigitalClock/
 
 
 ## **Installation**
 
-1. Clone the repo:
+Clone the repo:
 
    ```sh
    git clone https://github.com/mohith174/advanced-digital-clock.git
