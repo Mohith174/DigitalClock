@@ -12,7 +12,8 @@ This repository contains the code for an advanced digital clock with a fire anim
 ## **Demo Pages Link**
 
 
-### **Installation**
+
+## **Installation**
 
 1. Clone the repo:
 
